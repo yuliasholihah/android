@@ -1,0 +1,20 @@
+package com.example.instalasi;
+
+import android.support.v7.app.AppCompatActivity;
+import android.os.Bundle;
+import android.webkit.WebView;
+
+public class webview10 extends AppCompatActivity {
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_webview10);
+
+        WebView web = (WebView) findViewById(R.id.webview10);
+        web.loadUrl("https://youtu.be/2CL6nil5OK");
+
+
+    }
+}
+

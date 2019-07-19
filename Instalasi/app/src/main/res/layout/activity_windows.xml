@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    tools:context=".MainActivity"
+    android:background="@drawable/bl">
+
+    <Button
+        android:id="@+id/Buttonwindows7"
+        android:layout_width="244dp"
+        android:layout_height="82dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginRight="93dp"
+        android:layout_marginBottom="543dp"
+        android:background="#E91E63"
+        android:text="WINDOWS 7"
+        android:textColor="#E9E4E6"
+        android:textSize="18px">
+
+    </Button>
+
+    <Button
+        android:id="@+id/Buttonwindows"
+        android:layout_width="244dp"
+        android:layout_height="82dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginRight="93dp"
+        android:layout_marginBottom="426dp"
+        android:background="#E91E63"
+        android:text="WINDOWS 8"
+        android:textColor="#E9E4E6"
+        android:textSize="18px">
+
+    </Button>
+
+    <Button
+        android:id="@+id/Buttonwindows10"
+        android:layout_width="244dp"
+        android:layout_height="82dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginRight="86dp"
+        android:layout_marginBottom="298dp"
+        android:background="#E91E63"
+        android:text="WINDOWS 10"
+        android:textColor="#E9E4E6"
+        android:textSize="18px">
+
+    </Button>
+
+
+    <Button
+        android:id="@+id/Button02"
+        android:layout_width="244dp"
+        android:layout_height="82dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginRight="83dp"
+        android:layout_marginBottom="163dp"
+        android:background="#E91E63"
+        android:text="KEMBALI"
+        android:textColor="#E9E4E6"
+        android:textSize="18px">
+
+    </Button>
+</RelativeLayout>

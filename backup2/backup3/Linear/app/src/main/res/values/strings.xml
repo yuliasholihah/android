@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="perintah">Masukan minimal 3 huruf</string>
+    <string name="hello">Hello World, kotakDialog</string>
+    <string name="toastTextBtn">Panggil Toast</string>
+    <string name="exitTextBtn">Keluar Aplikasi</string>
+    <string name="listDialogTextBtn">Panggil List Dialog</string>
+    <string name="app_name">Membuat Check Box</string>
+    <string name="checkBox">checkBox ini : Tidak
+      Dicentang!</string>
+
+
+</resources>

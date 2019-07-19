@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".windows7"
+    android:background="@drawable/bl"
+    >
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+                android:id="@+id/imageView"
+                android:layout_width="match_parent"
+                android:layout_height="159dp"
+                android:src="@drawable/w8"></ImageView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:text="CARA INSTALASI WINDOWS 8 "
+                android:textAlignment="center"
+                android:textColor="#E91E63"
+                android:textSize="25dp"
+                android:textStyle="bold|italic" />
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/textw81"
+                android:textColor="#ffff" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/textw82"
+                android:textColor="#ffff" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/textw83"
+                android:textColor="#ffff" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/textw84"
+                android:textColor="#ffff" />
+
+            <ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+                android:id="@+id/w84"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/w84"></ImageView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/textw85"
+                android:textColor="#ffff" />
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/textw86"
+                android:textColor="#ffff" />
+
+            <ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+                android:id="@+id/w86"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/w86"></ImageView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/textw87"
+                android:textColor="#ffff" />
+            <ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+                android:id="@+id/w87"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/w87"></ImageView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/textw88"
+                android:textColor="#ffff" />
+            <ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+                android:id="@+id/w88"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/w88"></ImageView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/textw89"
+                android:textColor="#ffff" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/textw810"
+                android:textColor="#ffff" />
+            <ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+                android:id="@+id/w810"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/w810"></ImageView>
+
+            <Button
+                android:id="@+id/Buttonvideo"
+                android:layout_width="135dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentBottom="true"
+                android:layout_marginRight="22dp"
+                android:layout_marginBottom="47dp"
+                android:background="#E91E63"
+                android:text="VIDEO"
+                android:textColor="#E9E4E6"
+                android:textSize="18px">
+
+            </Button>
+
+
+            <Button
+                android:id="@+id/Button02"
+                android:layout_width="135dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentBottom="true"
+                android:layout_marginRight="22dp"
+                android:layout_marginBottom="47dp"
+                android:background="#E91E63"
+                android:text="KEMBALI"
+                android:textColor="#E9E4E6"
+                android:textSize="18px">
+
+            </Button>
+        </LinearLayout>
+    </ScrollView>
+
+
+</RelativeLayout>

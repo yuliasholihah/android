@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Instalasi</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="textw71">1. Langkah pertama masukan Master Windows 7 ke DVD Room</string>
+    <string name="textw72">2.Langkah berikutnya dalam Instalasi Windows 7 adalah mengatur settingan BIOS agar komputer dapat booting melalui DVD</string>
+    <string name="textw73">3. Setelah masuk ke BIOS, pilih tab Boot dengan cara menekan tombol panah. Kemudian ganti 1st Boot Device dari Floppy Drive menjadi CD/DVD-Room dengan cara menekan tombol -/+  kemudian tekan Enter</string>
+    <string name="textw74">4. Setelah itu tekan tombol F10 maka akan muncul kotak dialog Save configuration changes and exit now lalu pilih OK</string>
+    <string name="textw75">5. Jika muncul perintah Press any key to boot from CD or DVD Anda tinggal menekan tombol apa saja, maka akan muncul tampilan seperti dibawah ini</string>
+    <string name="textw76">6. Untuk pilihan abaikan saja, Anda bisa lanjut dengan pilih Next</string>
+    <string name="textw77">7. Berikutnya adalah muncul tampilan Instal Windows, Anda tinggal klik Instal now</string>
+    <string name="textw78">8. Pada bagian berikutnya pilih Custom (Advanced), maka akan muncul tampilan dimana kita memilih drive yang akan diinstal</string>
+    <string name="textw79">9. Pilih Partisi yang akan di isi dengan Windows 7, karena ini hanya ada 1 partisi, maka langsung saja, tetapi di laptop/PC anda pasti ada beberapa partisi, \n
+                              pilih yang partisi C, sekitar 100GB, bisa di cek di MyComputer.Windows akan melakukan proses Instalasi</string>
+
+    <string name="textw81">1. Backup data</string>
+    <string name="textw82">2. Lepaskan semua perangkat yang tersambung</string>
+    <string name="textw83">3. Siapkan CD atau Fladisk</string>
+    <string name="textw84">4. Restart,Setelah semuanya siap, kini masukan DVD atau flashdisk tersebut dan restart komputer Anda. Setelah itu, Anda akan masuk dalam sistem booting dan akan tampak perintah
+                              Press any key to boot from CD or DVD… jika Anda menggunakan CD/DVD atau Press any key to boot from external device… jika Anda menggunakan flashdisk. Silahkan tekan sembarang tombol pada keyboard. Setelah itu akan muncul jendela hitam dan gambar simbol Windows 8, tunggu sampai proses loading ini selesai.</string>
+    <string name="textw85">5. Setting bahasa, waktu, dan keyboard</string>
+    <string name="textw86">7. Mesukan product key</string>
+    <string name="textw87">7. Membuat partisi hardisk</string>
+    <string name="textw88">8. Personalisasi dan pengaturan lainnya</string>
+    <string name="textw89">9. Sign in ke akun Microsoft</string>
+    <string name="textw810">10. Finish</string>
+
+    <string name="textw11">1. Hubungkan CD ke Komputer</string>
+    <string name="textw12">2. Masuk menu BIOS</string>
+
+    <string name="linux1">1. Klik Instal Ubuntu</string>
+    <string name="linux2">2.Centang semua Pilihan, klik Continue</string>
+    <string name="linux3">3. Gunakan Opsi pertama Agar Proses partisi dilakukan secara otomatis oleh system sesuai kondisi PC Anda. Cara ini tidak berlaku untuk dual boot.</string>
+    <string name="linux4">4. Pilih HDD</string>
+    <string name="linux5">5. Pilih Zona Waktu</string>
+    <string name="linux6">6. Pilih Layout Keyboard. Gunakan Layout English (UK)</string>
+    <string name="linux7">7. Masukan Detail Login yang akan digunakan</string>
+    <string name="linux8">8. Install Linux dimulai. Anda bisa juga membaca slide yang ditayngkan untuk memahami apa itu Linux Ubuntu 16.04</string>
+    <string name="linux9">9. Instalasi selesai. Reboot</string>
+
+    <string name="textw101">1. Pencet Sembarang Keyboard</string>
+    <string name="textw102">2. Atur Waktu dan Tempat</string>
+    <string name="textw103">3. Setujui Lisensi</string>
+    <string name="textw104">4. Pilih Custom Advance</string>
+    <string name="textw105">5. Partisi Hardisk</string>
+    <string name="textw106">6. Proses Instalasi Windows 10 Berjalan</string>
+    <string name="textw107">7. Cabut Flashdisk dari Komputer</string>
+    <string name="textw108">8. Masukkan Product Key</string>
+    <string name="textw109">9. Setting</string>
+    <string name="textw1010">10. Login Akun Microsoft</string>
+    <string name="textw1011">11. Atur Nama dan Password</string>
+    <string name="textw1012">12. Windows 10 berhasil di instal</string>
+
+    <string name="t1">Ilmu pengetahuan dan teknologi berkembang terus bahkan dewasa ini berlangsung dengan pesat. \n
+                      Perkembangan itu bukan hanya dalam hitungan tahun, bulan, atau hari, melainkan jam, bahkan menit \n
+                      atau detik terutama berkaitan dengan teknologi  \n
+                      informasi dan komunikasi yang ditunjang dengan teknologi elektronika. Pengaruhnya meluas keberbagai \n
+                      bidang kehidupan \n </string>
+
+</resources>

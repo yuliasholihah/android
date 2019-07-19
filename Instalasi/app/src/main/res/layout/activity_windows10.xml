@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".windows10"
+    android:background="@drawable/bl"
+    >
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+                android:id="@+id/imageView"
+                android:layout_width="match_parent"
+                android:layout_height="159dp"
+                android:src="@drawable/windows"></ImageView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:text="CARA INSTALASI WINDOWS 10 "
+                android:textAlignment="center"
+                android:textColor="#E91E63"
+                android:textSize="25dp"
+                android:textStyle="bold|italic" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/textw101"
+                android:textColor="#ffff" />
+
+            <ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+                android:id="@+id/w810"
+                android:layout_width="wrap_content"
+                android:layout_height="335dp"
+                android:src="@drawable/s1"></ImageView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/textw102"
+                android:textColor="#ffff" />
+
+            <ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+                android:id="@+id/s2"
+                android:layout_width="wrap_content"
+                android:layout_height="410dp"
+                android:src="@drawable/s2"></ImageView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/textw103"
+                android:textColor="#ffff" />
+
+            <ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+                android:id="@+id/s3"
+                android:layout_width="wrap_content"
+                android:layout_height="349dp"
+                android:src="@drawable/s3"></ImageView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/textw104"
+                android:textColor="#ffff" />
+
+            <ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+                android:id="@+id/s4"
+                android:layout_width="wrap_content"
+                android:layout_height="355dp"
+                android:src="@drawable/s4"></ImageView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/textw105"
+                android:textColor="#ffff" />
+            <ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+                android:id="@+id/s5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/s5"></ImageView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/textw106"
+                android:textColor="#ffff" />
+
+            <ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+                android:id="@+id/s6"
+                android:layout_width="wrap_content"
+                android:layout_height="397dp"
+                android:src="@drawable/s6"></ImageView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/textw107"
+                android:textColor="#ffff" />
+
+            <ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+                android:id="@+id/s7"
+                android:layout_width="wrap_content"
+                android:layout_height="393dp"
+                android:src="@drawable/s7"></ImageView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/textw108"
+                android:textColor="#ffff" />
+
+            <ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+                android:id="@+id/s8"
+                android:layout_width="wrap_content"
+                android:layout_height="361dp"
+                android:src="@drawable/s8"></ImageView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/textw109"
+                android:textColor="#ffff" />
+
+            <ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+                android:id="@+id/s9"
+                android:layout_width="wrap_content"
+                android:layout_height="480dp"
+                android:src="@drawable/s9"></ImageView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/textw1010"
+                android:textColor="#ffff" />
+
+            <ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+                android:id="@+id/s10"
+                android:layout_width="wrap_content"
+                android:layout_height="480dp"
+                android:src="@drawable/s10"></ImageView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/textw1011"
+                android:textColor="#ffff" />
+
+            <ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+                android:id="@+id/s11"
+                android:layout_width="wrap_content"
+                android:layout_height="413dp"
+                android:src="@drawable/s11"></ImageView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/textw1012"
+                android:textColor="#ffff" />
+
+            <ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+                android:id="@+id/s12"
+                android:layout_width="wrap_content"
+                android:layout_height="315dp"
+                android:src="@drawable/s12"></ImageView>
+
+            <Button
+                android:id="@+id/Buttonvideo"
+                android:layout_width="135dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentBottom="true"
+                android:layout_marginRight="22dp"
+                android:layout_marginBottom="47dp"
+                android:background="#E91E63"
+                android:text="VIDEO"
+                android:textColor="#E9E4E6"
+                android:textSize="18px">
+
+            </Button>
+
+            <Button
+                android:id="@+id/Button02"
+                android:layout_width="135dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentBottom="true"
+                android:layout_marginRight="22dp"
+                android:layout_marginBottom="47dp"
+                android:background="#E91E63"
+                android:text="KEMBALI"
+                android:textColor="#E9E4E6"
+                android:textSize="18px">
+
+            </Button>
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>
